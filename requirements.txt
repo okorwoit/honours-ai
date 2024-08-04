@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+deepforest
+pillow
+matplotlib
+torch==1.8.1
+torchvision==0.9.1
+torchmetrics==0.3.2
+numpy==1.21.4
+python-multipart
+cloudinary
+urllib3==1.26.15
